@@ -29,6 +29,11 @@ It represents a strong foundation for production-grade APIs.
 
 ---
 
+## 📸 API Preview (Swagger)
+
+![Swagger UI](flowtaskSwagger.png)
+
+
 ## ✨ Features
 
 - Full CRUD operations for tasks  
